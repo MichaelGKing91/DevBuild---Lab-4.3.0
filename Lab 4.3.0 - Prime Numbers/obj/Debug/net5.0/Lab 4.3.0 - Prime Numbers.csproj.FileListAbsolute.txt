@@ -1,0 +1,16 @@
+C:\Users\mking10\dev\Lab 4.3.0 - Prime Numbers\Lab 4.3.0 - Prime Numbers\bin\Debug\net5.0\Lab 4.3.0 - Prime Numbers.exe
+C:\Users\mking10\dev\Lab 4.3.0 - Prime Numbers\Lab 4.3.0 - Prime Numbers\bin\Debug\net5.0\Lab 4.3.0 - Prime Numbers.deps.json
+C:\Users\mking10\dev\Lab 4.3.0 - Prime Numbers\Lab 4.3.0 - Prime Numbers\bin\Debug\net5.0\Lab 4.3.0 - Prime Numbers.runtimeconfig.json
+C:\Users\mking10\dev\Lab 4.3.0 - Prime Numbers\Lab 4.3.0 - Prime Numbers\bin\Debug\net5.0\Lab 4.3.0 - Prime Numbers.runtimeconfig.dev.json
+C:\Users\mking10\dev\Lab 4.3.0 - Prime Numbers\Lab 4.3.0 - Prime Numbers\bin\Debug\net5.0\Lab 4.3.0 - Prime Numbers.dll
+C:\Users\mking10\dev\Lab 4.3.0 - Prime Numbers\Lab 4.3.0 - Prime Numbers\bin\Debug\net5.0\ref\Lab 4.3.0 - Prime Numbers.dll
+C:\Users\mking10\dev\Lab 4.3.0 - Prime Numbers\Lab 4.3.0 - Prime Numbers\bin\Debug\net5.0\Lab 4.3.0 - Prime Numbers.pdb
+C:\Users\mking10\dev\Lab 4.3.0 - Prime Numbers\Lab 4.3.0 - Prime Numbers\obj\Debug\net5.0\Lab 4.3.0 - Prime Numbers.csprojAssemblyReference.cache
+C:\Users\mking10\dev\Lab 4.3.0 - Prime Numbers\Lab 4.3.0 - Prime Numbers\obj\Debug\net5.0\Lab 4.3.0 - Prime Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mking10\dev\Lab 4.3.0 - Prime Numbers\Lab 4.3.0 - Prime Numbers\obj\Debug\net5.0\Lab 4.3.0 - Prime Numbers.AssemblyInfoInputs.cache
+C:\Users\mking10\dev\Lab 4.3.0 - Prime Numbers\Lab 4.3.0 - Prime Numbers\obj\Debug\net5.0\Lab 4.3.0 - Prime Numbers.AssemblyInfo.cs
+C:\Users\mking10\dev\Lab 4.3.0 - Prime Numbers\Lab 4.3.0 - Prime Numbers\obj\Debug\net5.0\Lab 4.3.0 - Prime Numbers.csproj.CoreCompileInputs.cache
+C:\Users\mking10\dev\Lab 4.3.0 - Prime Numbers\Lab 4.3.0 - Prime Numbers\obj\Debug\net5.0\Lab 4.3.0 - Prime Numbers.dll
+C:\Users\mking10\dev\Lab 4.3.0 - Prime Numbers\Lab 4.3.0 - Prime Numbers\obj\Debug\net5.0\ref\Lab 4.3.0 - Prime Numbers.dll
+C:\Users\mking10\dev\Lab 4.3.0 - Prime Numbers\Lab 4.3.0 - Prime Numbers\obj\Debug\net5.0\Lab 4.3.0 - Prime Numbers.pdb
+C:\Users\mking10\dev\Lab 4.3.0 - Prime Numbers\Lab 4.3.0 - Prime Numbers\obj\Debug\net5.0\Lab 4.3.0 - Prime Numbers.genruntimeconfig.cache
